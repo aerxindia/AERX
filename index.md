@@ -1084,7 +1084,7 @@
                     Interested in bringing EcoShield to your project? Reach out — we'd love to collaborate.
                 </p>
                 <div class="contact-details">
-                    <div><i class="fas fa-envelope"></i> hello@aerx.tech</div>
+                    <div><i class="fas fa-envelope"></i> aerx.india@gmail.com</div>
                     <div><i class="fas fa-phone"></i> +91 8608081881</div>
                     <div><i class="fas fa-map-pin"></i> Chennai, Tamil Nadu, India</div>
                 </div>
